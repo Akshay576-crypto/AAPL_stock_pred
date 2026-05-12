@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+yfinance==0.2.54
+lxml
+html5lib
+requests
